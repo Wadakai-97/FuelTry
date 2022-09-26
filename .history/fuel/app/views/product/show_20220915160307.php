@@ -1,0 +1,7 @@
+<ul class="nav nav-pills">
+	<li class='<?php echo Arr::get($subnav, "show" ); ?>'><?php echo Html::anchor('product/show','Show');?></li>
+
+</ul>
+tit
+
+<p>Show</p>
