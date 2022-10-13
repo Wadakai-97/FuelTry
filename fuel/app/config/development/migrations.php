@@ -9,6 +9,7 @@ return array(
         0 => '001_create_products',
         1 => '002_create_companies',
         2 => '003_create_users',
+        3 => '004_create_sales',
       ),
     ),
     'module' => 
