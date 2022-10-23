@@ -1,0 +1,1 @@
+<? echo foreach($product as ['name'] ?>
